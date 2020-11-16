@@ -1,0 +1,29 @@
+{
+  "name": "painel-do-agro",
+  "version": "1.0.0",
+  "description": "painel destinado à demonstrar novidades sobre o agronegócio brasileiro com propagandas específicas para a área.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node -r esm server.js",
+    "server": "nodemon -r esm server.js --ignore db.json",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Paulo Miranda Quagliatto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "concurrently": "^5.2.0",
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "node-cron": "^2.0.3",
+    "node-sass": "^4.14.1",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

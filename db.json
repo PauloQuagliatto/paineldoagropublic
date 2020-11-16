@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": "b89f1d30-080b-11eb-ac5c-9b0939316681",
+      "name": "Arroz",
+      "isVeggie": true,
+      "information": [
+        {
+          "infoId": "b8e46390-080b-11eb-ac5c-9b0939316681",
+          "praca": "Cachoeira do Sul (RS)",
+          "price": "104.85"
+        },
+        {
+          "infoId": "b8e48aa0-080b-11eb-ac5c-9b0939316681",
+          "praca": "Boa Vista (RR)",
+          "price": "117.50"
+        },
+        {
+          "infoId": "b8e48aa1-080b-11eb-ac5c-9b0939316681",
+          "praca": "Uruguaiana (RS)",
+          "price": "104.40"
+        },
+        {
+          "infoId": "b8e48aa2-080b-11eb-ac5c-9b0939316681",
+          "praca": "Turvo (SC)",
+          "price": "111.90"
+        },
+        {
+          "infoId": "b8e48aa3-080b-11eb-ac5c-9b0939316681",
+          "praca": "Pelotas (RS)",
+          "price": "107.90"
+        },
+        {
+          "infoId": "b8e4b1b0-080b-11eb-ac5c-9b0939316681",
+          "praca": "Paranavaí (PR)",
+          "price": "113.30"
+        },
+        {
+          "infoId": "b8e4b1b1-080b-11eb-ac5c-9b0939316681",
+          "praca": "Vale do Paraíba (SP)",
+          "price": "127.50"
+        },
+        {
+          "infoId": "b8e4b1b2-080b-11eb-ac5c-9b0939316681",
+          "praca": "Gurupi (TO)",
+          "price": "122.50"
+        },
+        {
+          "infoId": "b8e4d8c0-080b-11eb-ac5c-9b0939316681",
+          "praca": "Rio Verde (GO)",
+          "price": "122.50"
+        },
+        {
+          "infoId": "b8e4d8c1-080b-11eb-ac5c-9b0939316681",
+          "praca": "Santa Catarina",
+          "price": "215.00"
+        },
+        {
+          "infoId": "b8e4d8c2-080b-11eb-ac5c-9b0939316681",
+          "praca": "São Paulo",
+          "price": "220.00"
+        },
+        {
+          "infoId": "b8e4ffd0-080b-11eb-ac5c-9b0939316681",
+          "praca": "Rio Grande do Sul",
+          "price": "215.00"
+        }
+      ]
+    },
+    {
+      "id": "b8e4ffd1-080b-11eb-ac5c-9b0939316681",
+      "name": "Boi Gordo",
+      "isVeggie": false,
+      "information": [
+        {
+          "infoId": "b9339500-080b-11eb-ac5c-9b0939316681",
+          "praca": "SP - Barretos",
+          "price": "252.00",
+          "thirtyDays": "254.00",
+          "base": "-"
+        },
+        {
+          "infoId": "b933bc10-080b-11eb-ac5c-9b0939316681",
+          "praca": "SP - Araçatuba",
+          "price": "252.00",
+          "thirtyDays": "254.00",
+          "base": "-"
+        },
+        {
+          "infoId": "b933bc11-080b-11eb-ac5c-9b0939316681",
+          "praca": "MG - Triângulo",
+          "price": "249.00",
+          "thirtyDays": "251.00",
+          "base": "-1.18"
+        },
+        {
+          "infoId": "b9340a30-080b-11eb-ac5c-9b0939316681",
+          "praca": "MG - B.Horizonte",
+          "price": "249.00",
+          "thirtyDays": "251.00",
+          "base": "-1.18"
+        },
+        {
+          "infoId": "b9340a31-080b-11eb-ac5c-9b0939316681",
+          "praca": "MG - Norte",
+          "price": "250.00",
+          "thirtyDays": "252.00",
+          "base": "-0.79"
+        },
+        {
+          "infoId": "b9343140-080b-11eb-ac5c-9b0939316681",
+          "praca": "MG - Sul",
+          "price": "244.50",
+          "thirtyDays": "246.50",
+          "base": "-2.95"
+        },
+        {
+          "infoId": "b9345850-080b-11eb-ac5c-9b0939316681",
+          "praca": "GO - Goiânia",
+          "price": "239.50",
+          "thirtyDays": "241.50",
+          "base": "-4.92"
+        },
+        {
+          "infoId": "b9347f60-080b-11eb-ac5c-9b0939316681",
+          "praca": "GO - Reg. Sul",
+          "price": "240.50",
+          "thirtyDays": "242.50",
+          "base": "-4.53"
+        },
+        {
+          "infoId": "b9347f61-080b-11eb-ac5c-9b0939316681",
+          "praca": "MS - Dourados",
+          "price": "246.50",
+          "thirtyDays": "248.00",
+          "base": "-2.36"
+        },
+        {
+          "infoId": "b934a670-080b-11eb-ac5c-9b0939316681",
+          "praca": "MS - C. Grande",
+          "price": "248.00",
+          "thirtyDays": "246.50",
+          "base": "-2.95"
+        },
+        {
+          "infoId": "b934a671-080b-11eb-ac5c-9b0939316681",
+          "praca": "MS - Três Lagoas",
+          "price": "241.50",
+          "thirtyDays": "243.50",
+          "base": "-4.13"
+        },
+        {
+          "infoId": "b934cd80-080b-11eb-ac5c-9b0939316681",
+          "praca": "RS - Oeste (kg)",
+          "price": "7.50",
+          "thirtyDays": "7.60",
+          "base": "-10.24"
+        },
+        {
+          "infoId": "b934cd81-080b-11eb-ac5c-9b0939316681",
+          "praca": "RS - Pelotas (kg)",
+          "price": "7.50",
+          "thirtyDays": "7.60",
+          "base": "-10.24"
+        },
+        {
+          "infoId": "b934cd82-080b-11eb-ac5c-9b0939316681",
+          "praca": "BA - Sul",
+          "price": "254.00",
+          "thirtyDays": "256.00",
+          "base": "0.79"
+        },
+        {
+          "infoId": "b934f490-080b-11eb-ac5c-9b0939316681",
+          "praca": "BA - Oeste",
+          "price": "253.00",
+          "thirtyDays": "255.00",
+          "base": "0.39"
+        },
+        {
+          "infoId": "b934f491-080b-11eb-ac5c-9b0939316681",
+          "praca": "MT - Norte",
+          "price": "234.50",
+          "thirtyDays": "236.50",
+          "base": "-6.89"
+        },
+        {
+          "infoId": "b9351ba0-080b-11eb-ac5c-9b0939316681",
+          "praca": "MT - Sudoeste",
+          "price": "236.50",
+          "thirtyDays": "238.50",
+          "base": "-6.10"
+        },
+        {
+          "infoId": "b93542b0-080b-11eb-ac5c-9b0939316681",
+          "praca": "MT - Cuiabá*",
+          "price": "242.50",
+          "thirtyDays": "244.50",
+          "base": "-3.74"
+        },
+        {
+          "infoId": "b93542b1-080b-11eb-ac5c-9b0939316681",
+          "praca": "MT - Sudeste",
+          "price": "239.50",
+          "thirtyDays": "241.50",
+          "base": "-4.92"
+        },
+        {
+          "infoId": "b93569c0-080b-11eb-ac5c-9b0939316681",
+          "praca": "PR - Noroeste",
+          "price": "241.50",
+          "thirtyDays": "243.50",
+          "base": "-4.13"
+        },
+        {
+          "infoId": "b93569c1-080b-11eb-ac5c-9b0939316681",
+          "praca": "SC - Oeste",
+          "price": "234.50",
+          "thirtyDays": "236.50",
+          "base": "-6.89"
+        },
+        {
+          "infoId": "b935b7e0-080b-11eb-ac5c-9b0939316681",
+          "praca": "MA - Oeste",
+          "price": "248.00",
+          "thirtyDays": "250.00",
+          "base": "-1.57"
+        },
+        {
+          "infoId": "b935def0-080b-11eb-ac5c-9b0939316681",
+          "praca": "Alagoas",
+          "price": "264.00",
+          "thirtyDays": "266.00",
+          "base": "4.72"
+        },
+        {
+          "infoId": "b935def1-080b-11eb-ac5c-9b0939316681",
+          "praca": "PA - Marabá",
+          "price": "249.00",
+          "thirtyDays": "251.00",
+          "base": "-1.18"
+        },
+        {
+          "infoId": "b935def2-080b-11eb-ac5c-9b0939316681",
+          "praca": "PA - Redenção",
+          "price": "246.50",
+          "thirtyDays": "248.00",
+          "base": "-2.36"
+        },
+        {
+          "infoId": "b935def3-080b-11eb-ac5c-9b0939316681",
+          "praca": "PA - Paragominas",
+          "price": "248.00",
+          "thirtyDays": "250.00",
+          "base": "-1.57"
+        },
+        {
+          "infoId": "b9360600-080b-11eb-ac5c-9b0939316681",
+          "praca": "RO - Sudeste",
+          "price": "234.50",
+          "thirtyDays": "236.50",
+          "base": "-6.89"
+        },
+        {
+          "infoId": "b9360601-080b-11eb-ac5c-9b0939316681",
+          "praca": "TO - Sul",
+          "price": "244.50",
+          "thirtyDays": "246.50",
+          "base": "-2.95"
+        },
+        {
+          "infoId": "b9362d10-080b-11eb-ac5c-9b0939316681",
+          "praca": "TO - Norte",
+          "price": "247.00",
+          "thirtyDays": "249.00",
+          "base": "-1.97"
+        },
+        {
+          "infoId": "b9362d11-080b-11eb-ac5c-9b0939316681",
+          "praca": "Acre",
+          "price": "224.50",
+          "thirtyDays": "226.50",
+          "base": "-10.83"
+        },
+        {
+          "infoId": "b9365420-080b-11eb-ac5c-9b0939316681",
+          "praca": "ES",
+          "price": "239.50",
+          "thirtyDays": "241.50",
+          "base": "-4.92"
+        },
+        {
+          "infoId": "b9365421-080b-11eb-ac5c-9b0939316681",
+          "praca": "RJ",
+          "price": "243.50",
+          "thirtyDays": "245.50",
+          "base": "-3.35"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "bc2b5130-080b-11eb-ac5c-9b0939316681",
+      "title": "Valor da produção agrícola bate recorde e atinge R$ 361 bilhões em 2019",
+      "subTitle": "A cana-de-açúcar foi um dos principais produtos que influenciaram esse crescimento, com um aumento de 5,3% no valor da produção, recuperando a queda do ano anterior. A área colhida da cana também teve uma expansão de 0,7% O valor da produção das principais culturas agrícolas do país atingiu…",
+      "link": "https://alavoura.com.br/cenario-agro/censo-agropecuario/valor-da-producao-agricola-bate-recorde-e-atinge-r-361-bilhoes-em-2019/"
+    },
+    {
+      "id": "bc2b7840-080b-11eb-ac5c-9b0939316681",
+      "title": "México abre mercado para a entrada de ovos brasileiros",
+      "subTitle": "O México, maior consumidor de ovos do mundo, abriu seu mercado para as importações de ovos produzidos no Brasil. O País é o maior consumidor per capita do produto, com 378 unidades anuais (no Brasil, o consumo é de 230 unidades Nas prévias da Semana do Ovo –…",
+      "link": "https://alavoura.com.br/cenario-agro/comercio-exterior/mexico-abre-mercado-para-a-entrada-de-ovos-brasileiros/"
+    },
+    {
+      "id": "bc2b9f50-080b-11eb-ac5c-9b0939316681",
+      "title": "Brasil exporta primeira carga de melão para China após acordo bilateral",
+      "subTitle": "Cerca de três toneladas e meia de melão pele de sapo, da região de Mossoró (RN), desembarcaram no Aeroporto de Xangai A China recebeu nesta sexta-feira (18) o primeiro embarque de melões brasileiros após acordo bilateral firmado entre os países. Cerca de três toneladas e meia de melão…",
+      "link": "https://alavoura.com.br/cenario-agro/comercio-exterior/brasil-exporta-primeira-carga-de-melao-para-china-apos-acordo-bilateral/"
+    },
+    {
+      "id": "bc2bc660-080b-11eb-ac5c-9b0939316681",
+      "title": "Exportação de carne suína cresce 54,5% em 2020. Ásia segue o maior destino",
+      "subTitle": "Receita em dólar do segmento também é positiva, com US$ 209,2 milhões, número que supera em 90,7% o saldo obtido no mesmo período de 2019 Levantamentos da Associação Brasileira de Proteína Animal (ABPA) mostram que as exportações brasileiras de carne suína (considerando todos os produtos, entre in natura e processados)…",
+      "link": "https://alavoura.com.br/cenario-agro/comercio-exterior/exportacao-de-carne-suina-cresce-545-em-2020/"
+    },
+    {
+      "id": "bc2bc661-080b-11eb-ac5c-9b0939316681",
+      "title": "Gigante de fragrâncias adquire produção francesa de óleo de lavanda",
+      "subTitle": "A japonesa Takasago firmou parceria com a cooperativa rural de Provença como parte estratégica da empresa para garantir sua própria produção do óleo e a redução nos efeitos da volatilidade do mercado A Takasago, uma das cinco maiores empresas de aromas e fragrâncias do mundo, com operação em…",
+      "link": "https://alavoura.com.br/cenario-agro/mercado/gigante-de-fragrancias-adquire-producao-francesa-de-oleo-essencial-de-lavanda/"
+    },
+    {
+      "id": "bc6c2ac0-080b-11eb-ac5c-9b0939316681",
+      "title": "JBS e Liga do Araguaia firmam parceria para produzir mais em área menor",
+      "subTitle": "Pelo projeto, no primeiro ano a Friboi subsidia 80% dos custos das consultorias para o pecuarista; no segundo ano, 50% e, no terceiro, 20%; entenda",
+      "link": "https://www.canalrural.com.br/noticias/pecuaria/boi/jbs-e-liga-do-araguaia-firmam-parceria-para-produzir-mais-em-area-menor/"
+    },
+    {
+      "id": "bc6c51d0-080b-11eb-ac5c-9b0939316681",
+      "title": "Soja: clima seco e atraso no plantio no Brasil impulsionam cotações em Chicago",
+      "subTitle": "Segundo a Safras, com a semeadura sendo adiada em regiões produtoras do Brasil, o mercado trabalha com aumento no período de demanda firme pela soja dos EUA",
+      "link": "https://www.canalrural.com.br/projeto-soja-brasil/soja-clima-seco-e-atraso-no-plantio-no-brasil-impulsionam-cotacoes-em-chicago/"
+    },
+    {
+      "id": "bc6c51d1-080b-11eb-ac5c-9b0939316681",
+      "title": "De olho na diversidade, Yara começa seleção para trainees de 2021",
+      "subTitle": "As inscrições vão até o dia 2 de novembro e a área de atuação pode ser em quase todo o Brasil; confira quem pode concorrer",
+      "link": "https://www.canalrural.com.br/noticias/de-olho-na-diversidade-yara-comeca-selecao-para-trainees-de-2021/"
+    },
+    {
+      "id": "bc6c78e0-080b-11eb-ac5c-9b0939316681",
+      "title": "Em plena colheita, preço do trigo vai a R$ 72 por saca no Paraná, diz Cogo",
+      "subTitle": "Analista de mercado afirma que é uma ótima temporada para investir no cereal, pois a tendência é que as cotações continuem firmes em 2021",
+      "link": "https://www.canalrural.com.br/programas/informacao/mercado-e-cia/preco-trigo-parana-cogo/"
+    },
+    {
+      "id": "bc6c78e1-080b-11eb-ac5c-9b0939316681",
+      "title": "Preço da carne atinge maior valor da história e impulsiona cotações do boi gordo",
+      "subTitle": "De acordo com o Itaú BBA, o auxílio emergencial tem sustentado as cotações da carne bovina, que por sua vez tem impulsionado o preço do boi gordo",
+      "link": "https://www.canalrural.com.br/programas/informacao/mercado-e-cia/preco-da-carne-atinge-maior-valor-da-historia-e-impulsiona-cotacoes-do-boi-gordo/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.content-container {
+    margin-right: $m-size;
+    margin-left: $m-size;
+    margin-bottom: $s-size;
+
+
+    @media(min-width: $desktop-breakpoint){
+        margin: 0 auto;
+        margin-bottom: $m-size;
+        padding: 0 $m-size;
+        max-width: 80rem;
+    }
+}
+
+.content-container--header{
+    margin: 0 auto;
+    padding: 0 $s-size;
+    max-width: 100rem;
+}
+
+.content-container--shadow {
+    box-shadow: 1px 0px 7px 7px rgba($color: #000000, $alpha: .3);
+}

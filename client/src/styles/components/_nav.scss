@@ -1,0 +1,24 @@
+.nav__links {
+    display: flex;
+    justify-content: space-between;
+    margin: $xs-size;
+    
+    @media(min-width: $desktop-breakpoint){
+        margin: $s-size
+    }
+}
+
+.nav-btn {
+    color: $dark-grey;
+    text-decoration: none;
+    transition: color .2s ease;
+    margin: $m-size;
+    &:hover {
+        color: white;
+        text-decoration: underline solid white;
+    }
+
+    h1 {
+        font-size: $font-size-large;
+    }
+}
